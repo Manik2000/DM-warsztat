@@ -37,4 +37,12 @@ uv pip install -r requirements.txt
 
 Różnica między `uv` a `pip` jest wyrażnie zauważalna.
 
+
+## Materiały do nauki
+
+### Książki
+
+### Kursy
+
+
 @author: Marcin Kostrzewa
