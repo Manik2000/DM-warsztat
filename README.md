@@ -41,8 +41,14 @@ Różnica między `uv` a `pip` jest wyrażnie zauważalna.
 ## Materiały do nauki
 
 ### Książki
+* [*Little book of Deep Learning*](https://fleuret.org/francois/lbdl.html), Francois Fleuret
+* *Deep learning*, Ian Goodfellow and Yoshua Bengio and Aaron Courville
+* *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow*, Aurélien Géron
 
 ### Kursy
-
+* Kursy [stąd](https://www.deeplearning.ai/courses/)
+* https://dlvu.github.io/
+* [Karpathy's From zero to Hero](https://karpathy.ai/zero-to-hero.html)
+* [Kurs DL z uniwersytetu w Genewie](https://fleuret.org/dlc/)
 
 @author: Marcin Kostrzewa
